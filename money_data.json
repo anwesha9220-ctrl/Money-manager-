@@ -1,0 +1,51 @@
+{
+    "income": 20110300.0,
+    "expenses": 6786.0,
+    "transactions": [
+        {
+            "type": "Income",
+            "amount": 10000.0,
+            "category": "food"
+        },
+        {
+            "type": "Income",
+            "amount": 300.0,
+            "category": "food"
+        },
+        {
+            "type": "Expense",
+            "amount": 40.0,
+            "category": "Food",
+            "note": "C:\\Users\\dell\\AppData\\Local\\Programs\\Python\\Python312\\python.exe \"c:/Users/dell/OneDrive/Desktop/money manger/main.py\""
+        },
+        {
+            "type": "Income",
+            "amount": 10000000.0,
+            "category": "C:\\Users\\dell\\AppData\\Local\\Programs\\Python\\Python312\\python.exe \"c:/Users/dell/OneDrive/Desktop/money manger/main.py\""
+        },
+        {
+            "type": "Income",
+            "amount": 10000000.0,
+            "category": "Income"
+        },
+        {
+            "type": "Expense",
+            "amount": 3000.0,
+            "category": "Travel",
+            "note": "TRAVEL WAS EXPENSIVE"
+        },
+        {
+            "type": "Income",
+            "amount": 100000.0,
+            "category": "Income"
+        },
+        {
+            "type": "Expense",
+            "amount": 3746.0,
+            "category": "Bills",
+            "note": "ELECTRICITY BILL"
+        }
+    ],
+    "budget": 0.0,
+    "savings_goal": 0.0
+}
